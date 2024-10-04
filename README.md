@@ -1,4 +1,4 @@
-# [Udacity Deep Learning Nanodegree Projects](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
+# [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
 
 ## **Overview**
 This repository contains a collection of deep learning projects completed as part of the Udacity Deep Learning Nanodegree program. The projects span various domains of deep learning, including neural networks, convolutional networks, recurrent networks, generative adversarial networks (GANs), and style transfer. Each project involves working with real-world datasets and applying deep learning techniques to solve complex problems.
